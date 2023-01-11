@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
  
 # Load the image
-image = cv2.imread("image.jpg")
+image = cv2.imread("Unis.jpg")
 
 # Blur the image
 gauss = cv2.GaussianBlur(image, (7,7), 0)

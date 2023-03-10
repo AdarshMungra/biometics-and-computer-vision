@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-rawImage = cv2.imread('rawImage1.jpg')
+rawImage = cv2.imread('RawImage1.jpg')
 cv2.imshow('Original Image',rawImage)
 cv2.waitKey(0)
 

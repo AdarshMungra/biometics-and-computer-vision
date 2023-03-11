@@ -1,0 +1,13 @@
+https://www.pyimagesearch.com/2014/06/02/opencv-load-image/
+
+https://techtutorialsx.com/2018/06/02/python-opencv-converting-an-image-to-gray-scale/
+
+https://dev-akash.github.io/posts/how-to-convert-color-image-to-grayscale-in-opencv-with-python.html
+
+https://docs.opencv.org/3.1.0/d1/db7/tutorial_py_histogram_begins.html
+
+https://www.geeksforgeeks.org/opencv-python-program-analyze-image-using-histogram/
+
+
+
+
